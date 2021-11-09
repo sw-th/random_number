@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+    margin: 0;
+}
+
+button {
+    font-size:large;
+    font-weight: bold;
+}
+
+#content-el{
+    display: flex;
+    margin: 2em;
+    justify-content: center;
+}
+
+.digit-el{
+    background: black;
+    color: white;
+    font-size: large;
+    text-align: center;
+    margin: 1em;
+    padding:1em;
+    border: 2em;
+    width: 2em;
+    height: 2em;
+}
